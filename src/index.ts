@@ -20,7 +20,7 @@ interval(800)
   notifier.notify({
     title: 'ACRM',
     message: 'replaced!',
-    icon: path.join(__dirname, 'icon.jpg')
+    icon: path.join(__dirname, '../icon.png')
   })
 })
 
